@@ -2,7 +2,14 @@
 
 
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=33CC00&size=40&width=900&height=80&lines=🌱🌿PHYTOSCAN🪴🍃"> <img src="https://media3.giphy.com/media/pjGfgPC8fPPRGXYbE7/giphy.gif?cid=6c09b952hewr07ns6k36wzt4cqwzg2sz2gucqdncsm1ecesu&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
+<div style="text-align: center;">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=33CC00&size=40&width=900&height=80&lines=🌱🌿PHYTOSCAN+-+Plant+Disease+Detection+and+Analyzer🪴🍃">
+</div>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://media3.giphy.com/media/pjGfgPC8fPPRGXYbE7/giphy.gif?cid=6c09b952hewr07ns6k36wzt4cqwzg2sz2gucqdncsm1ecesu&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="Animated GIF" width="40%">
+  <img src="https://img.freepik.com/premium-vector/using-data-map-farmer-tracks-progression-disease-outbreak-their-crops-implements_216520-111337.jpg" alt="Farmer tracking disease outbreak" width="40%">
+</div>
+
 
 
 
