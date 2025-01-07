@@ -166,7 +166,7 @@ Thanks a lot for spending your time helping the project grow. Thanks a lot! Keep
 ---
 <h2 align="center"> License 🛡️ </h2>
 
-Distributed under the MIT License. See [LICENSE](https://github.com/Unnimaya6122004/MINIPROJECT/blob/main/LICENSE) for more information.
+Distributed under the Apache License 2.0 License. See [LICENSE](https://github.com/Unnimaya6122004/MINIPROJECT/blob/main/LICENSE) for more information.
 
 <h2 align="center">Code of Conduct</h2>
 
