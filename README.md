@@ -1,4 +1,12 @@
-<a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:331a00,11:4a2d11,22:5f4025,33:704f38,44:8b6946,55:a5815b,66:c29a73,77:d7b08b,88:e5c8a1,99:f0d9b7,100:f0d9b7&text=Welcome%20to%20our%20Miniproject&reversal=true&section=header&fontAlignY=45&fontSize=40&textBg=false&animation=twinkling&fontColor=FFFFFF" /></a><br>
+<a href="#">
+  <img align="left" 
+       alt="React" 
+       width="100%" 
+       style="padding-right:10px;" 
+       src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1a0e05,11:281506,22:381d09,33:48270b,44:57300d,55:663912,66:754216,77:844c1b,88:95541f,99:a65e22,100:a65e22&text=Welcome%20to%20our%20Miniproject&reversal=true&section=header&fontAlignY=45&fontSize=40&textBg=false&animation=twinkling&fontColor=FFFFFF" />
+</a>
+
+
 
 
 
