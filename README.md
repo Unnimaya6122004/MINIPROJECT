@@ -18,13 +18,24 @@
   <img src="https://img.freepik.com/premium-vector/using-data-map-farmer-tracks-progression-disease-outbreak-their-crops-implements_216520-111337.jpg" alt="Farmer tracking disease outbreak" width="40%">
 </div>
 
+## Tomato Plant Disease Detection 🌿🍅
 
+### Introduction  
+Tomato plants are highly susceptible to various diseases that can significantly reduce crop yield and quality. Early and accurate disease detection is crucial to preventing crop failure, minimizing economic losses, and ensuring food security. Traditional methods of disease diagnosis are often time-consuming, require expert knowledge, and may lead to misdiagnosis.  
 
+This project leverages Deep Learning and Computer Vision to build an automated tomato leaf disease detection system. Using a Convolutional Neural Network (CNN) trained on a dataset of tomato leaf images, this model can classify different types of tomato diseases with high accuracy. To make the solution accessible and easy to use, a Streamlit-based web application is developed, allowing users to upload images of tomato leaves and receive instant predictions.  
 
-## 🚀 Introduction  
-Plant diseases cause significant losses in agricultural productivity, with farmers often facing challenges in diagnosing issues accurately and on time. Misdiagnosis or delayed treatment leads to crop failure, economic setbacks, and reduced food security.
+### Features 
+✅ Deep learning-based CNN model for disease classification  
+✅ Trained on Tomato Leaf Dataset from Kaggle  
+✅ Streamlit web app for user-friendly interaction  
+✅ Supports multiple tomato diseases classification  
+✅ Data Augmentation to improve model generalization  
+✅ Model evaluation with accuracy visualization  
 
-Key Challenges:
+---  
+
+## Key Challenges:
 
 Difficulty in identifying plant diseases without expert knowledge.
 Limited access to agricultural experts and resources, especially in rural areas.
@@ -61,17 +72,14 @@ Time-consuming and ineffective traditional methods of disease identification.
 ## 🛠️ Tech Stack 
 
 Frontend:  
-- React | HTML | CSS  
+- React/Streamlit
 
 Backend:  
 - Flask/Django  
 
 Machine Learning: 
 - TensorFlow/PyTorch (CNN models) | OpenCV  
-
-Database:
-- PostgreSQL/MySQL  
-
+  
 Deployment:  
 - Vercel (Frontend) | AWS/Heroku (Backend)  
 
@@ -79,9 +87,9 @@ Deployment:
 
 ## 📊 Datasets  
 
-- Primary Dataset: [PlantVillage](https://www.kaggle.com/emmarex/plantdisease)  
+- Primary Dataset: [Tomato leaf disease detection](https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf)  
 - Contains thousands of annotated images for supervised training and validation.  
-- Allows identifying diseases across multiple plant species.  
+- Allows identifying diseases across tomato plants.  
 
 ---
 
@@ -158,7 +166,7 @@ Experience the app live: [Plant Disease Predictor](https://yourappname.vercel.ap
 ---
 
 ## 🏆 Acknowledgments 
-- PlantVillage Dataset: For providing a robust and detailed dataset.  
+- Tomato leaf disease detection Dataset: For providing a robust and detailed dataset.  
 - The global open-source community for libraries and resources like TensorFlow, React, and Flask.   
 
 ---
